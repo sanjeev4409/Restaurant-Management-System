@@ -35,3 +35,19 @@ Where: When we visit new place we don't know where to go but we are hungry in th
 Why: In that suitation it is hard to find we didn't even know the proper language. In that time it is very useful
 
 How: Now a days every one using smartphone and internet as well. By this it will run easily
+
+
+
+High Level Requirements
+1) Associate every online booking with an account
+2) Limit every account to a single user
+3) Enable users to search and find the most relevant booking options
+4) Accept date and time to check tables for that particular time
+5) Booking confirmation should be sent to the specified contact details
+6) Calculate and display charges and other utilities
+7) Cancel bookings
+
+Low Level Requirements
+1) Use encryption to avoid bots from booking
+2) Search results should populate within acceptable time limits
+3) Users should be helped appropriately to fill in the mandatory fields, in case of invalid input
