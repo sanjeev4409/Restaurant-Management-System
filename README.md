@@ -12,3 +12,26 @@ automatically and your staff don’t need to worry.
 2) With guests inputting their own details there’s less chance of the wrong data being entered. If something does go wrong you’ll have a record to prove it wasn’t your fault.
 A large amount of guest data can be captured by these systems, allowing you to improve both marketing and guest service
 3) Better management and tracking of rewarding guests for their loyalty
+
+**FEATURES**
+1) In this Website user can able to see the locations of the Restaurant.
+2) User Can also enter into the portal for his/her choice based on location.
+3) They can able to see the menu.
+4) They can Book a table.
+5) Online Payment is available.
+6) Customer Support is available for 24/7.
+
+
+**4W & 1H**
+
+What: It is a Online Restaurant Management System. It is used to see the locations where the restaurant is located and they can book a table. 
+We are providing Customer support also.
+
+When: 1) When we visits new places.
+      2) For Parties.
+
+Where: When we visit new place we don't know where to go but we are hungry in that suitation it helps a lot. 
+
+Why: In that suitation it is hard to find we didn't even know the proper language. In that time it is very useful
+
+How: Now a days every one using smartphone and internet as well. By this it will run easily
