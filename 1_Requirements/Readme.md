@@ -15,9 +15,9 @@
   -> Better management and tracking of rewarding guests for their loyalty
 
 # Features
-  1) In this Website user can able to see the locations of the Restaurant.
-  2) User Can also enter into the portal for his/her choice based on location.
-  3) They can able to see the menu.
+  1) In this Website user can be able to see the locations of the Restaurant.
+  2) User Can also enter the portal for his/her choice based on location.
+  3) They can be able to see the menu.
   4) They can Book a table.
   5) Online Payment is available.
   6) Customer Support is available for 24/7.
